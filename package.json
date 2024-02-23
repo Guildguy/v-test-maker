@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Guildguy/v-test-maker/issues"
   },
-  "homepage": "https://github.com/Guildguy/v-test-maker#readme"
+  "homepage": "https://github.com/Guildguy/v-test-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
